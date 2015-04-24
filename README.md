@@ -1,5 +1,5 @@
 # AjaxCache
-Ajax with optional localStorage as data cache support, base on jQuery.js
+Ajax with optional localStorage as data cache support, based on [jQuery.js](https://github.com/jquery).
 
 ## Usage
 
